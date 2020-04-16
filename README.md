@@ -19,3 +19,5 @@ gi thub side
 build trigger
 
 periodically
+
+ci with mvn
