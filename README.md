@@ -21,3 +21,6 @@ build trigger
 periodically
 
 ci with mvn
+
+
+ci with mvn2
