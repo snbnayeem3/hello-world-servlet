@@ -19,4 +19,5 @@ gi thub side
 build trigger
 
 periodically
-java
+
+1
