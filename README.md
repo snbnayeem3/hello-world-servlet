@@ -20,3 +20,4 @@ build trigger
 
 periodically
 
+mvn
