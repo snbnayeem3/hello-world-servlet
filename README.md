@@ -21,4 +21,4 @@ build trigger
 periodically
 
 mvn
-qwe\
+12
