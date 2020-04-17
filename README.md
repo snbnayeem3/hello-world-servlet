@@ -19,6 +19,4 @@ gi thub side
 build trigger
 
 periodically
-
-mvn
-1
+803
