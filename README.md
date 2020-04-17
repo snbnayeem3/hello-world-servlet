@@ -14,13 +14,4 @@ webhook test
 
 
 
-gi thub side
-
-build trigger
-
-periodically
-
-1
-
-2000
-2
+987
