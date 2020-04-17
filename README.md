@@ -23,6 +23,4 @@ periodically
 ci with mvn
 
 
-ci with mvn2
-
-7
+ci with mvn2.
