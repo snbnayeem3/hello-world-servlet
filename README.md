@@ -23,4 +23,4 @@ periodically
 ci with mvn
 
 
-ci with mvn2.
+mvn 
