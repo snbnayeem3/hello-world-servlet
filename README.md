@@ -20,7 +20,3 @@ build trigger
 
 periodically
 
-ci with mvn
-
-
-mvn.
