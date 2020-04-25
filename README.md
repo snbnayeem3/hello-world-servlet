@@ -15,3 +15,5 @@ webhook test
 25/4/20 trigger/trig
 
 scm trigger process
+
+periodically process
