@@ -25,3 +25,5 @@ second
 clean setup
 
 clean test
+
+clean package
