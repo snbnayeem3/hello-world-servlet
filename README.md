@@ -27,3 +27,5 @@ clean setup
 clean test
 
 clean package
+
+clean install
