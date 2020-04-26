@@ -23,3 +23,5 @@ first
 second
 
 clean setup
+
+clean test
