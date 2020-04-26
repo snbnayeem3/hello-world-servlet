@@ -21,3 +21,5 @@ periodically process
 first
 
 second
+
+clean setup
